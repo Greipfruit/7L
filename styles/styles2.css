@@ -6,6 +6,7 @@
 
 @media screen and (min-width: 768px) 
  {  
+    
 header {
     display: flex;
     background-color: rgb(204, 200, 200);
@@ -94,8 +95,6 @@ main {
     background-color: rgb(177, 175, 175);
     justify-content: space-around;
     
-    
-  
 }
 .section {
     display: flex;
